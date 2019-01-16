@@ -1,0 +1,16 @@
+{
+  "name": "notekeep-cli",
+  "version": "1.0.0",
+  "description": "A simple task keeper using the NodeJS CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "minimist": "^1.2.0"
+  }
+}
